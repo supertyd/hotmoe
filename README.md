@@ -3,7 +3,7 @@ Official implementation of HotMoE, including models and training&testing codes.
 
 
 
-<center><img width="25%" alt="30%" src="tracking/ensemble&Moe.svg"/></center>
+<center><img width="25%" alt="30%" src="tracking/ensemble&Moe.pdf"/></center>
 
 
 
