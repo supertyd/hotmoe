@@ -13,16 +13,16 @@ A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracki
 - HyperTrack has high performance on hyperspectal tracking tasks.
 
 - A single model cross three kinds of hyperspectral images.
-<center><img width="90%" alt="" src="tracking/new_framework.pdf"/></center>
+<center><img width="90%" alt="" src="tracking/new_framework.png"/></center>
 
 
 ## Results
-### On HOT2023 tracking benchmarks
+### On HOT2022 tracking benchmarks
 <center><img width="90%" alt="" src="tracking/hot2023.png"/></center>
 
 
 
-### On HOT2022 tracking benchmark
+### On HOT2023 tracking benchmark
 <center><img width="90%" alt="" src="tracking/hot2022.png"/></center>
 
 ## Usage
