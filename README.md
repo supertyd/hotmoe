@@ -68,7 +68,7 @@ You can also modify paths by these two files:
 ```
 
 ### Training
-Download the pretrained [foundation model](https://drive.google.com/drive/folders/1wyeIs3ytYkmAtTXoVlLMkJ4aSTq5CBHq) (Mixformer) 
+Download the pretrained [foundation model](https://drive.google.com/drive/folders/1ttafo0O5S9DXK2PX0YqPvPrQ-HWJjhSy) (OSTrack) 
 and put it under ./pretrained_networks/.
 ```
 python run_training.py
