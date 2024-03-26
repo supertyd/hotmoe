@@ -3,7 +3,7 @@ Official implementation of HotMoE, including models and training&testing codes.
 
 
 
-<center><img width="25%" alt="30%" src="tracking/prompt&HyperTrack.svg"/></center>
+<center><img width="25%" alt="30%" src="tracking/ensemble&Moe.svg"/></center>
 
 
 
@@ -13,17 +13,17 @@ A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracki
 - HyperTrack has high performance on hyperspectal tracking tasks.
 
 - A single model cross three kinds of hyperspectral images.
-<center><img width="90%" alt="" src="tracking/network_arch.jpg"/></center>
+<center><img width="90%" alt="" src="tracking/new_framework.pdf"/></center>
 
 
 ## Results
 ### On HOT2023 tracking benchmarks
-<center><img width="90%" alt="" src="tracking/2023.jpg"/></center>
+<center><img width="90%" alt="" src="tracking/2023.png"/></center>
 
 
 
 ### On HOT2022 tracking benchmark
-<center><img width="90%" alt="" src="tracking/2022.jpg"/></center>
+<center><img width="90%" alt="" src="tracking/2022.png"/></center>
 
 ## Usage
 ### Installation
