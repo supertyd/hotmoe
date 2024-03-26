@@ -10,7 +10,7 @@ Official implementation of HotMoE, including models and training&testing codes.
 ## Introduction
 A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracking).
 
-- HyperTrack has high performance on hyperspectal tracking tasks.
+- HotMoE has high performance on hyperspectal tracking tasks.
 
 - A single model cross three kinds of hyperspectral images.
 <center><img width="90%" alt="" src="tracking/new_framework.png"/></center>
@@ -29,18 +29,18 @@ A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracki
 ### Installation
 Create and activate a conda environment:
 ```
-conda create -n hypertrack python=3.7
-conda activate hypertrack
+conda create -n hotmoe python=3.7
+conda activate hotmoe
 ```
 Install the required packages:
 ```
-bash install_hypertrack.sh
+bash install_hotmoe.sh
 ```
 
 ### Data Preparation
 Put the training datasets in ./data/. It should look like:
 ```
-$<PATH_of_HyperTrack>
+$<PATH_of_HotMoE>
 -- data
     -- Test
         |-- VIS
@@ -58,7 +58,7 @@ $<PATH_of_HyperTrack>
 ### Path Setting
 Run the following command to set paths:
 ```
-cd <PATH_of_HyperTrack>
+cd <PATH_of_HotMoE>
 python tracking/create_default_local_file.py --workspace_dir . --data_dir ./data --save_dir ./output
 ```
 You can also modify paths by these two files:
