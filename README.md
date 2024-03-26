@@ -18,12 +18,12 @@ A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracki
 
 ## Results
 ### On HOT2023 tracking benchmarks
-<center><img width="90%" alt="" src="tracking/2023.png"/></center>
+<center><img width="90%" alt="" src="tracking/hot2023.png"/></center>
 
 
 
 ### On HOT2022 tracking benchmark
-<center><img width="90%" alt="" src="tracking/2022.png"/></center>
+<center><img width="90%" alt="" src="tracking/hot2022.png"/></center>
 
 ## Usage
 ### Installation
