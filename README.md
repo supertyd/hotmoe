@@ -83,7 +83,7 @@ python test.py
 You can test models with various modalities and variants by modifying ```test.py```.
 
 ## Acknowledgment
-- This repo is based on [Mixformer](https://github.com/MCG-NJU/MixFormer) which is an excellent work.
+- This repo is based on [OSTrack](https://github.com/botaoye/OSTrack) which is an excellent work.
 - We thank for the [PyTracking](https://github.com/visionml/pytracking) library, which helps us to quickly implement our ideas.
 
 
