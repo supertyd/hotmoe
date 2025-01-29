@@ -8,11 +8,10 @@ Official implementation of HotMoE, including models and training&testing codes.
 
 
 ## Introduction
-A new unified hyperspectral tracking framework (e.g. VIS, NIR, and RedNIR Tracking).
+A new unified hyperspectral tracking framework.
 
 - HotMoE has high performance on hyperspectal tracking tasks.
 
-- A single model cross three kinds of hyperspectral images.
 <center><img width="90%" alt="" src="tracking/new_framework.png"/></center>
 
 
@@ -44,13 +43,9 @@ $<PATH_of_HotMoE>
 -- data
     -- Test
         |-- VIS
-        |-- NIR
-        |-- RedNIR
         ...
     -- Train
         |-- VIS
-        |-- NIR
-        |-- RedNIR
         ...
 
 ```
