@@ -1,4 +1,4 @@
-# HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking
+# HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking(TMM 2024)
 Official implementation of HotMoE, including models and training&testing codes.
 
 
