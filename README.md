@@ -1,5 +1,5 @@
 # HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking(TMM 2024)
-Official implementation of HotMoE, including models and training&testing codes.
+Official implementation of [HotMoE](https://ieeexplore.ieee.org/document/10855488), including models and training&testing codes.
 
 
 You can download our raw results for HOT2022 and HOT2023 [here](https://drive.google.com/drive/folders/1coxIFkzUhJeJphKAyCnpN5qJ2xQwoL0v?usp=drive_link).
