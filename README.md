@@ -6,7 +6,8 @@
  Pretrain Model: [Google Drive(OSTrack)](https://drive.google.com/drive/folders/1nU40_fpIVUd4ht3T_qB8uSBhQeSzBTD9 )
 
  Raw Result:   [Google Drive](https://drive.google.com/drive/folders/1coxIFkzUhJeJphKAyCnpN5qJ2xQwoL0v?usp=sharing)
-  
+ 
+  :sparkling_heart: The implementation of MoE in this code is relatively simple. Please refer to my [XTrack code](https://github.com/supertyd/XTrack/tree/main), which contains a more detailed implementation.  :sparkling_heart:
 
 ![HotMoE](stream_line.gif)
 ## Usage
